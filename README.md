@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-[!["Поколение Python": курс для начинающих](https://github.com/user-attachments/assets/e191767d-35a0-454e-839d-701f5e8f7c14)](https://stepik.org/cert/2684261)
-[!["Поколение Python": курс для начинающих](https://github.com/user-attachments/assets/e191767d-35a0-454e-839d-701f5e8f7c14)](https://stepik.org/cert/2684261)
-[!["Поколение Python": курс для начинающих](https://github.com/user-attachments/assets/e191767d-35a0-454e-839d-701f5e8f7c14)](https://stepik.org/cert/2684261)
+[!["Поколение Python": курс для начинающих](https://github.com/user-attachments/assets/9d5e5503-4861-4d99-984d-5d8c57a0cec3)](https://stepik.org/cert/2684261)
+[!["Поколение Python": курс для начинающих](https://github.com/user-attachments/assets/9d5e5503-4861-4d99-984d-5d8c57a0cec3)](https://stepik.org/cert/2684261)
+[!["Поколение Python": курс для начинающих](https://github.com/user-attachments/assets/9d5e5503-4861-4d99-984d-5d8c57a0cec3)](https://stepik.org/cert/2684261)
